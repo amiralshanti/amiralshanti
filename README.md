@@ -1,61 +1,41 @@
-# Hi, I'm Amir Alshanti 👋
+👋 Hello There! I'm Amir 💻🚀
+** Expert Full-Stack Developer | Modern JavaScript Stack **
+I combine software engineering experience to building scalable web applications with modern architectures
 
-Software Engineering Student from Gaza, Palestine 🇵🇸
+LinkedIn Email
 
-I'm passionate about building modern web applications and creating impactful digital solutions. I enjoy building full-stack applications, learning new technologies, and transforming ideas into real-world products.
+🛠 Core Tech Stack
+Frontend
+React.js Next.js TypeScript
 
-## 🚀 About Me
+Styling
+Tailwind CSS MUI
 
-- 🎓 Software Engineering Student
-- 💻 Full-Stack Developer
-- ⚛️ Building modern web applications with Next.js and Node.js
-- 🌱 Always learning and improving my skills
-- 🎯 Interested in Software Engineering, Web Development, and UI/UX
-- 🇵🇸 Based in Palestine
+State Management
+Redux Zustand
 
-## 🛠️ Tech Stack
+Backend
+Node.js Express
 
-### Frontend
-- Next.js
-- React
-- TypeScript
-- JavaScript
-- Tailwind CSS
-- HTML5
-- CSS3
+Databases
+PostgreSQL MongoDB
 
-### Backend
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- REST APIs
+Tools
+Prisma JWT
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-- Vercel
-- Figma
+🔥 Current Interests & Focus
+🚀 Optimizing Next.js apps with App Router
+🧩 Micro-frontend architectures
+☁️ Backend patterns
+🔄 TypeScript migration strategies
+🔒 Advanced authentication patterns
+⚡ Real-Time WebSockets
+📫 Let's Collaborate!
+I'm always open to:
 
-## 🌟 Featured Project
+🤝 Technical discussions
+🚀 Open-source contributions
+💡 Project ideas
+How to reach me:
 
-### Coursio
-A full-stack e-learning platform that enables students to discover, purchase, and complete online courses while providing instructors with tools to create content, host live sessions, manage earnings, and track analytics.
-
-**Tech Stack:** Next.js, Node.js, Express.js, MongoDB, PayPal, Stripe
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alshantiamir&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alshantiamir&layout=compact&theme=transparent)
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/alshantiamir
-
----
-
-> Building impactful digital experiences through code.
+📧 Email: alshantiamir@gmail.com
