@@ -1,41 +1,62 @@
-👋 Hello There! I'm Amir 💻🚀
-** Expert Full-Stack Developer | Modern JavaScript Stack **
-I combine software engineering experience to building scalable web applications with modern architectures
+# 👋 Hello There! I'm Amir 💻🚀
 
-LinkedIn Email
+**Full-Stack Developer | Modern JavaScript Stack**
 
-🛠 Core Tech Stack
-Frontend
-React.js Next.js TypeScript
+I combine software engineering principles with modern web technologies to build scalable, high-performance applications that deliver exceptional user experiences. Passionate about clean code, scalable architectures, and turning ideas into real-world products.
 
-Styling
-Tailwind CSS MUI
+---
 
-State Management
-Redux Zustand
+## 🛠 Core Tech Stack
 
-Backend
-Node.js Express
+### Frontend
 
-Databases
-PostgreSQL MongoDB
+React.js • Next.js • TypeScript
 
-Tools
-Prisma JWT
+### Styling
 
-🔥 Current Interests & Focus
-🚀 Optimizing Next.js apps with App Router
-🧩 Micro-frontend architectures
-☁️ Backend patterns
-🔄 TypeScript migration strategies
-🔒 Advanced authentication patterns
-⚡ Real-Time WebSockets
-📫 Let's Collaborate!
+Tailwind CSS • Material UI
+
+### State Management
+
+Redux • Zustand
+
+### Backend
+
+Node.js • Express.js
+
+### Databases
+
+PostgreSQL • MongoDB
+
+### Tools & Technologies
+
+Prisma • JWT • REST APIs • Git & GitHub
+
+---
+
+## 🔥 Current Interests & Focus
+
+🚀 Optimizing Next.js applications with App Router
+🧩 Exploring Micro-Frontend Architectures
+☁️ Designing Scalable Backend Systems
+🔄 TypeScript Migration & Code Modernization
+🔒 Advanced Authentication & Authorization Patterns
+⚡ Real-Time Applications with WebSockets
+🏗️ Clean Architecture & Software Design Patterns
+
+---
+
+## 📫 Let's Collaborate!
+
 I'm always open to:
 
 🤝 Technical discussions
 🚀 Open-source contributions
-💡 Project ideas
-How to reach me:
+💡 Project ideas and collaborations
+🌍 Connecting with developers worldwide
 
-📧 Email: alshantiamir@gmail.com
+### Reach Me
+
+📧 Email: [alshantiamir@gmail.com]
+
+**Building modern web experiences, one project at a time. 🚀**
